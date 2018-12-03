@@ -1,6 +1,6 @@
 package com.testing;
 
-import android.support.test.filters.LargeTest;
+import androidx.test.filters.LargeTest;
 import android.support.test.rule.ActivityTestRule;
 import android.support.test.runner.AndroidJUnit4;
 

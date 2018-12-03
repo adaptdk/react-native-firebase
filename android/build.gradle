@@ -189,10 +189,10 @@ dependencies {
    * -------------------------------- */
 
   // For Firebase Ads
-  compileOnly "com.android.support:customtabs:$supportVersion"
+  compileOnly "androidx.browser:browser:1.0.0"
 
   // For React Native Firebase Notifications
-  api "com.android.support:support-v4:$supportVersion"
+  api "androidx.legacy:legacy-support-v4:1.0.0"
 
   // For React Native Firebase Notifications
   compileOnly 'me.leolin:ShortcutBadger:1.1.21@aar'
